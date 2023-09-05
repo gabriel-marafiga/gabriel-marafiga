@@ -1,16 +1,14 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Tudo certo? Meu nome é Gabriel!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Gabriel!</h1>
 
--🔥 Desenvolvedor BackEnd
+-🔥 Desenvolvedor BackEnd</p>
+-🌱 Em constante crescimento 
 
 
-<br><br>
-
-## 🛠 &nbsp;Tecnologias que domino
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Linguagens de programação e marcação</h3>
 
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -22,21 +20,21 @@
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-	  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 Frameworks e Bibliotecas</h3>
 
   <p>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="NUnit" src="https://custom-icon-badges.demolab.com/badge/NUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
+      <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Bancos de dados e hospedagem em nuvem</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -49,7 +47,7 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Software e Ferramentas</h3>
 
   <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -64,34 +62,25 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
-	  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
 
   </p>
 </details>
-<br><br>
+<br>
+<details> 
+  <summary><h2>📊 GitHub Analytics</h2></summary>
+  <h3>💻 GitHub Profile Stats</h3>
 
-## ⚙ &nbsp;GitHub Analytics
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<img align="center" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api?username=chanbito&show_icons=true&theme=radical">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estatísticas no Github de Gabriel" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=chanbito&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Principais Linguagens do Gabriel" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanbito&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
-<img align="center" alt="STATS" width="530rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanbito&layout=compact&theme=radical"> 
+  <b>Note:</b>As principais Linguagens são apenas uma métrica das Linguagens em que meu código público consiste e não reflete experiência ou nível de habilidade.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gráfico de atividades do Gabriel" src="https://github-readme-activity-graph.vercel.app/graph/?username=chanbito&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
-
-<!--
-**chanbito/chanbito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
