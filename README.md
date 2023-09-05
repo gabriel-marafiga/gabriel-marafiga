@@ -4,7 +4,7 @@
 -🌱 Em constante crescimento 
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -66,7 +66,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Estatística do GitHub</h2></summary>
   <h3>💻 Estatísticas de perfil do GitHub</h3>
 
