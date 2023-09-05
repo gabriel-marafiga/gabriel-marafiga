@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Gabriel!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"width="30px">Olá, me chamo Gabriel 👋</h1>
 
 -🔥 Desenvolvedor BackEnd</p>
 -🌱 Em constante crescimento 
@@ -52,7 +52,6 @@
   <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
@@ -67,10 +66,10 @@
 
   </p>
 </details>
-<br>
+
 <details> 
-  <summary><h2>📊 GitHub Analytics</h2></summary>
-  <h3>💻 GitHub Profile Stats</h3>
+  <summary><h2>📊 Estatística do GitHub</h2></summary>
+  <h3>💻 Estatísticas de perfil do GitHub</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -78,7 +77,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Principais Linguagens do Gabriel" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanbito&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <b>Note:</b>As principais Linguagens são apenas uma métrica das Linguagens em que meu código público consiste e não reflete experiência ou nível de habilidade.
+  <b>Note:</b> As principais Linguagens são apenas uma métrica das Linguagens em que meu código público consiste e não reflete experiência ou nível de habilidade.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
