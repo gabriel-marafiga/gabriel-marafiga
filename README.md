@@ -31,6 +31,7 @@
       <a href="#"><img alt="NUnit" src="https://custom-icon-badges.demolab.com/badge/NUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
+      <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-brightgreen?logo=springboot&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Bancos de dados e hospedagem em nuvem</h3>
